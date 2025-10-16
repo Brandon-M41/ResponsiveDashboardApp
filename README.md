@@ -62,10 +62,7 @@ src/
 ## Performance Notes
 - StyleSheet.create used for all styles  
 - Memoization applied where necessary  
-- Native driver enabled for animations  
-
-## Screenshots
-See `/screenshots` folder for app images on different devices.  
+- Native driver enabled for animations   
 
 ## Known Issues
 No known issues at this time. Suprisingly. 
